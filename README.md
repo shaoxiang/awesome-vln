@@ -1,11 +1,6 @@
 [中文](./README_CN.md)
 
-# Awesome Vision-Language Navigation (VLN) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-A curated list of papers, datasets, simulators, and codebases for **Vision-Language Navigation (VLN)**.
-Covers instruction following in 3D environments, continuous navigation, LLM/VLM-based planning, world models, and scene graph reasoning.
-
----
+# Awesome Vision-Language Navigation (VLN) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Contents
 - [Surveys & Benchmarks](#surveys--benchmarks)
@@ -144,9 +139,6 @@ Covers instruction following in 3D environments, continuous navigation, LLM/VLM-
 
 ### Semantic Navigation & Scene Graphs
 *3D scene graphs, object relations, and structured knowledge for transferable navigation.*
-
----
-
 
 - [**Sparsely-Grounded-Long-Range-Navigation**](https://github.com/Utkarsh-Mishra444/Sparsely-Grounded-Long-Range-Navigation) - AgentNav is a zero-shot system for long-range visual navigation in real-world cities using Multimodal Large Language Models (MLLMs). It addresses sparsely grounded instructions by leveraging MLLMs to interpret visual observations and generate navigation actions without task-specific training. Key components include a VLM-based planner, real-world urban environments, and a focus on generalization. This project targets researchers in embodied AI, vision-language navigation, and robotics seeking scalable, instruction-following navigation agents.
 - [**JanusVLN**](https://github.com/MIV-XJTU/JanusVLN) - JanusVLN introduces a framework for Vision-Language Navigation that decouples semantic and spatial reasoning using dual implicit memory modules. It leverages LLMs and multimodal models to improve instruction following in 3D environments. The repository provides the official implementation of the ICLR2026 paper, targeting researchers in embodied navigation and VLN.
